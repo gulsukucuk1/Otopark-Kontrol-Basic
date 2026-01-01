@@ -1,0 +1,8 @@
+C:\Users\Gülsu\Desktop\DERSLER\nesneye yönelik\OtoparkProjesi\OtoparkProjesi\bin\Debug\OtoparkProjesi.exe.config
+C:\Users\Gülsu\Desktop\DERSLER\nesneye yönelik\OtoparkProjesi\OtoparkProjesi\bin\Debug\OtoparkProjesi.exe
+C:\Users\Gülsu\Desktop\DERSLER\nesneye yönelik\OtoparkProjesi\OtoparkProjesi\bin\Debug\OtoparkProjesi.pdb
+C:\Users\Gülsu\Desktop\DERSLER\nesneye yönelik\OtoparkProjesi\OtoparkProjesi\obj\Debug\OtoparkProjesi.csproj.AssemblyReference.cache
+C:\Users\Gülsu\Desktop\DERSLER\nesneye yönelik\OtoparkProjesi\OtoparkProjesi\obj\Debug\OtoparkProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Gülsu\Desktop\DERSLER\nesneye yönelik\OtoparkProjesi\OtoparkProjesi\obj\Debug\OtoparkProjesi.exe
+C:\Users\Gülsu\Desktop\DERSLER\nesneye yönelik\OtoparkProjesi\OtoparkProjesi\obj\Debug\OtoparkProjesi.pdb
+C:\Users\Gülsu\Desktop\DERSLER\nesneye yönelik\OtoparkProjesi\OtoparkProjesi\obj\Debug\OtoparkProjesi.exe.config
